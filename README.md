@@ -16,3 +16,5 @@ Install tesseract using windows installer available at: https://github.com/UB-Ma
 Set the tesseract path in the script before calling pytesseract.pytesseract.tesseract_cmd 
 eg : pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
 
+the above results in the program are for [all_of_statistics.pdf](https://github.com/lovishpandey/PDF-to-TEXT-Extraction-/files/7062228/all_of_statistics.pdf)
+
